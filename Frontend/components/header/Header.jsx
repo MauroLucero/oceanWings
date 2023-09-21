@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import Link from 'next/link'
-import logoLight from '/public/logo-light.svg'
+import logoLight from '/public/logoOW.svg'
 import logoDark from '/public/logo-dark.svg'
 import Menu from './Menu'
 
@@ -17,8 +17,8 @@ export default function Header() {
                 src={logoLight}
                 alt='Picture of the author'
                 className='dark:hidden'
-                width={101}
-                height={50}
+                width={215}
+                height={49}
                 priority={true}
               />
               <Image
