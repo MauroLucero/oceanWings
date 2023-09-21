@@ -36,7 +36,7 @@ http://oceanwingsdh.ddns.net/
     - GitHub: [](...)
     - LinkedIn: [https://www.linkedin.com/in/maximiliano-cant%C3%B3-9773a0231](...)
 - Fernando Pioli Martínez - FrontEnd
-    - email: [](...)
+    - email:[ferpm.dev@gmail.com](...)
     - GitHub: [https://www.linkedin.com/in/ferpmdeveloper/](...)
     - LinkedIn: [https://www.linkedin.com/in/fernando-pioli-mart%C3%ADnez-9b1b0a1b1/](...)
 - Ezequil Agustin Ochoa - DBA - FrontEnd
