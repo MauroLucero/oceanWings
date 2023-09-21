@@ -31,9 +31,9 @@ http://oceanwingsdh.ddns.net/
     - email: [alex.velasquez08@outlook.com](...)
     - GitHub: [https://github.com/alex-v08](https://github.com/alex-v08)
     - LinkedIn: [https://www.linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08)
-- MAximiliano Cantó - BackEnd - FrontEnd
-    - email: [](...)
-    - GitHub: [](...)
+- Maximiliano Cantó - BackEnd - FrontEnd
+    - email: [maxicanto2009@hotmail.com](...)
+    - GitHub: [https://github.com/Cmaxi99](...)
     - LinkedIn: [https://www.linkedin.com/in/maximiliano-cant%C3%B3-9773a0231](...)
 - Fernando Pioli Martínez - FrontEnd
     - email:[ferpm.dev@gmail.com](...)
