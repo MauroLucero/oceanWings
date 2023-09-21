@@ -20,11 +20,11 @@ http://oceanwingsdh.ddns.net/
     - Correo :[apumaleiva@gmail.com](...)
     - GitHub: [http://github.com/github.com/arauco8](...)
     - LinkedIn:[https://www.linkedin.com/in/maximiliano-emanuel-leiva/](...)
-- Georgina Folco 
+- Georgina Folco - UXUI - Frontend
     - email : [folcogeorgina@gmail.com](...)
     - GitHub: [https://github.com/georginafolco](...)
     - LinkedIn:[https://www.linkedin.com/in/georginafolco](...)
-- Mauro Lucero - Master of puppets. Scrum - BackEnd - FrontEnd
+- Mauro Lucero - Master of puppets. Scrum - BackEnd - FrontEnd -infra - 
    - - email: [mauro.luceroR@gmail.com](...)
    - - GitHub: [https://www.linkedin.com/in/maurolucero/](...)
 - Alex Velasquez - BACKEND - Infraestructura - DBA
@@ -35,14 +35,18 @@ http://oceanwingsdh.ddns.net/
     - email: [](...)
     - GitHub: [](...)
     - LinkedIn: [https://www.linkedin.com/in/maximiliano-cant%C3%B3-9773a0231](...)
-  - Fernando Pioli Martínez - FrontEnd
-    - email: [](...)
+- Fernando Pioli Martínez - FrontEnd
+    - email:[ferpm.dev@gmail.com](...)
     - GitHub: [https://www.linkedin.com/in/ferpmdeveloper/](...)
     - LinkedIn: [https://www.linkedin.com/in/fernando-pioli-mart%C3%ADnez-9b1b0a1b1/](...)
 - Ezequil Agustin Ochoa - DBA - FrontEnd
     - email: [agustinmirotti97@gmail.com](...)
     - GitHub: [https://github.com/Agezmioc](...)
     - LinkedIn: [http://linkedin.com/in/agustín-mirotti-6b6b01286](...)
+- Fabricio Turrina - FullStack Dev
+    - email: [](...)
+    - GitHub: [](...)
+    - LinkedId : [](...)
 
 ### BACKEND 
 Este es un proyecto que utiliza Spring Boot y Maven para crear una aplicación Booking de Reservas de Embaraciónes. A continuación, se detallan las versiones y artefactos utilizados en este proyecto:
