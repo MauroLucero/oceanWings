@@ -86,13 +86,11 @@ export default async function Detalle({ params }) {
             <div className='flex items-center text-gray-400'>
               <HiLocationMarker className='mr-1 h-4 w-4' />
               <span className='text-sm font-semibold uppercase'>
-                SANTA ROSA, LA PAMPA, ARGENTINA
+                {results.location.city}, {results.location.country}
               </span>
             </div>
             <div className='mt-4 flex items-center border-b border-t py-4 font-medium text-sky-950'>
-              <span className='pr-3'>
-                8 Huéspedes 9 Habitaciones 2 Baños 5 Cabinas
-              </span>
+              <span className='pr-3'>{results.produDescription}</span>
               {/* Rating */}
               <RatingMedia productId={index} style='font-bold' />
             </div>
