@@ -1,7 +1,7 @@
 import Social from './Social'
 import Image from 'next/image'
 import Link from 'next/link'
-import logoLight from '/public/logo-light.svg'
+import logoLight from '/public/logoOW.svg'
 import logoDark from '/public/logo-dark.svg'
 
 export default function Footer() {
@@ -15,8 +15,8 @@ export default function Footer() {
             src={logoLight}
             alt='Picture of the author'
             className='dark:hidden'
-            width={51}
-            height={25}
+            width={140}
+            height={50}
           />
           <Image
             src={logoDark}
