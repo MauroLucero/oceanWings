@@ -36,7 +36,9 @@ export default function Home({ searchParams }) {
     const generatePlaceholders = async products => {
       const placeholderData = await Promise.all(
         products.map(async product => {
-          return await dynamicBlurDataUrl(`${product.imageUrl}1.png`)
+          return await dynamicBlurDataUrl(
+            `${product.pictureDataSet[0].imageUrl}`
+          )
         })
       )
       return placeholderData
@@ -45,6 +47,21 @@ export default function Home({ searchParams }) {
     const initializeData = async () => {
       try {
         const products = await fetchProducts()
+        // Función para ordenar el arreglo pictureDataSet por imageOrder
+        function ordenarPictureDataSet(product) {
+          product.pictureDataSet.sort(function (a, b) {
+            // Convierte los valores de imageOrder a números antes de comparar
+            var orderA = parseInt(a.imageOrder)
+            var orderB = parseInt(b.imageOrder)
+
+            // Compara los valores numéricos
+            return orderA - orderB
+          })
+        }
+
+        // Aplica la función de ordenar a cada objeto del arreglo products
+        products.forEach(ordenarPictureDataSet)
+
         const placeholderData = await generatePlaceholders(products)
         setTotalProducts(products)
         setPlaceHolders(placeholderData)

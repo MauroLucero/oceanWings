@@ -11,13 +11,21 @@ export default function RandomProducts({ entries, placeHolders }) {
             {entries &&
               entries.map(
                 (
-                  { imageUrl, id, name, description, pricePerDay, category },
+                  {
+                    imageUrl,
+                    pictureDataSet,
+                    id,
+                    name,
+                    description,
+                    pricePerDay,
+                    category
+                  },
                   index
                 ) =>
                   imageUrl !== null ? (
                     <CardDetail
                       key={id}
-                      imageUrl={imageUrl + '1.png'}
+                      imageUrl={pictureDataSet[0].imageUrl}
                       id={id}
                       name={name}
                       description={description}
