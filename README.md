@@ -43,6 +43,10 @@ http://oceanwingsdh.ddns.net/
     - email: [agustinmirotti97@gmail.com](...)
     - GitHub: [https://github.com/Agezmioc](...)
     - LinkedIn: [http://linkedin.com/in/agustín-mirotti-6b6b01286](...)
+- Fabricio Turrina - FullStack Dev
+    - email: [](...)
+    - GitHub: [](...)
+    - LinkedId : [](...)
 
 ### BACKEND 
 Este es un proyecto que utiliza Spring Boot y Maven para crear una aplicación Booking de Reservas de Embaraciónes. A continuación, se detallan las versiones y artefactos utilizados en este proyecto:
