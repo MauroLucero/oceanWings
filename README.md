@@ -43,9 +43,9 @@ http://oceanwingsdh.ddns.net/
     - email: [agustinmirotti97@gmail.com](...)
     - GitHub: [https://github.com/Agezmioc](...)
     - LinkedIn: [http://linkedin.com/in/agustín-mirotti-6b6b01286](...)
-- Fabricio Turrina - FullStack Dev
-    - email: [](...)
-    - GitHub: [](...)
+- Fabricio Turrina - FrontEnd 
+    - email: [fabriciodanielturrina@gmail.com](...)
+    - GitHub: [https://github.com/FabriDaT](...)
     - LinkedId : [](...)
 
 ### BACKEND 
