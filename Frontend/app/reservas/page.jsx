@@ -207,7 +207,7 @@ const HistorialReservas = () => {
                             calculateDays(booking.dateInit, booking.dateEnd)}
                         </span>
                       </h3>
-                      {booking.message === null ? (
+                      {booking.message === null && booking.complete === true ? (
                         <button
                           className=' cursor-pointer rounded px-2 py-1 text-sm text-emerald-400 transition hover:text-emerald-500'
                           onClick={e => {
