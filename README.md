@@ -20,11 +20,11 @@ http://oceanwingsdh.ddns.net/
     - Correo :[apumaleiva@gmail.com](...)
     - GitHub: [http://github.com/github.com/arauco8](...)
     - LinkedIn:[https://www.linkedin.com/in/maximiliano-emanuel-leiva/](...)
-- Georgina Folco 
+- Georgina Folco - UXUI - Frontend
     - email : [folcogeorgina@gmail.com](...)
     - GitHub: [https://github.com/georginafolco](...)
     - LinkedIn:[https://www.linkedin.com/in/georginafolco](...)
-- Mauro Lucero - Master of puppets. Scrum - BackEnd - FrontEnd
+- Mauro Lucero - Master of puppets. Scrum - BackEnd - FrontEnd -infra - 
    - - email: [mauro.luceroR@gmail.com](...)
    - - GitHub: [https://www.linkedin.com/in/maurolucero/](...)
 - Alex Velasquez - BACKEND - Infraestructura - DBA
