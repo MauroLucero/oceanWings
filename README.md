@@ -10,12 +10,13 @@ http://oceanwingsdh.ddns.net/
 
 
 # TECNOLGIAS : 
- - NEXTJS 
- - AWS (EC2 - S3)
- - SPRING SPRING SECURITY
- - SPRINT BOOT
+ - NEXTJS
  - TAILWINDS
+ - AWS (EC2 - S3 - RDS)
+ - SPRING SECURITY
+ - SPRING BOOT 
  - DOCKER
+ - Gitlab (CI-CD)
  
 
 # Integrantes
