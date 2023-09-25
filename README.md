@@ -9,7 +9,14 @@ http://oceanwingsdh.ddns.net/
 # Proyecto PI (pi-project)
 
 
-# TECNOLGIAS : NEXTJS - AWS - SPRING SPRING SECURITY - SPRINT BOOT - TAILWINDS - DOCKER - EC2 - S3 
+# TECNOLGIAS : 
+ - NEXTJS 
+ - AWS (EC2 - S3)
+ - SPRING SPRING SECURITY
+ - SPRINT BOOT
+ - TAILWINDS
+ - DOCKER
+ 
 
 # Integrantes
 - Lucas Diaz - FRONTED
@@ -24,7 +31,7 @@ http://oceanwingsdh.ddns.net/
     - email : [folcogeorgina@gmail.com](...)
     - GitHub: [https://github.com/georginafolco](...)
     - LinkedIn:[https://www.linkedin.com/in/georginafolco](...)
-- Mauro Lucero - Master of puppets. Scrum - BackEnd - FrontEnd -infra - 
+- Mauro Lucero - Scrum Master- BackEnd - FrontEnd -infra - 
    - - email: [mauro.luceroR@gmail.com](...)
    - - GitHub: [https://www.linkedin.com/in/maurolucero/](...)
 - Alex Velasquez - BACKEND - Infraestructura - DBA
