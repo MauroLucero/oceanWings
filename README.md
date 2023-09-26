@@ -19,7 +19,7 @@ http://oceanwingsdh.ddns.net/
  
 
 # Integrantes
-- Lucas Diaz - FRONTED
+- Lucas Diaz - Frontend
     - Correo: [lucasdiaz@gmail.com](...)
     - GitHub: [https://github.com/lucasgustavodiaz](https://github.com/alex-v08)
     - LinkedIn: [https://www.linkedin.com/in/lucas-gustavo-diaz/](https://www.linkedin.com/in/alex-velasquez08)
