@@ -9,13 +9,14 @@ http://oceanwingsdh.ddns.net/
 # Proyecto PI (pi-project)
 
 
-# TECNOLGIAS : 
+# TECNOLOGIAS : 
  - NEXT.JS / TAILWINDS
  - AWS (EC2 - S3 - RDS)
  - SPRING SECURITY
  - SPRING BOOT 
  - DOCKER
  - Gitlab (CI-CD)
+ - Java
  
 
 # Integrantes
