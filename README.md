@@ -33,7 +33,7 @@ http://oceanwingsdh.ddns.net/
     - LinkedIn:[https://www.linkedin.com/in/georginafolco](...)
 - Mauro Lucero - Scrum Master- BackEnd - FrontEnd -infra - 
    - - email: [mauro.luceroR@gmail.com](...)
-   - - GitHub: [https://www.linkedin.com/in/maurolucero/](...)
+   - - LinkedIn: [https://www.linkedin.com/in/maurolucero/](...)
 - Alex Velasquez - BACKEND - Infraestructura - DBA
     - email: [alex.velasquez08@outlook.com](...)
     - GitHub: [https://github.com/alex-v08](https://github.com/alex-v08)
