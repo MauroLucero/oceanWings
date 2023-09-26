@@ -10,8 +10,7 @@ http://oceanwingsdh.ddns.net/
 
 
 # TECNOLGIAS : 
- - NEXTJS
- - TAILWINDS
+ - NEXT.JS / TAILWINDS
  - AWS (EC2 - S3 - RDS)
  - SPRING SECURITY
  - SPRING BOOT 
